@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/KH-Ray/todo-app)
+- Live Site URL: [Add live site URL here](https://todo-app-be.fly.dev/)
 
 ## My process
 
@@ -48,6 +48,9 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - [React](https://reactjs.org/) - JS library
+- [TypeScript](https://www.typescriptlang.org/) - JavaScript with syntax for types.
+- [PostgreSQL](https://www.postgresql.org/) - Powerful, open source object-relational database
+- [Sequelize](https://sequelize.org/) - Modern TypeScript and Node.js ORM
 
 ### What I learned
 
