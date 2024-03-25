@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/KH-Ray/todo-app)
-- Live Site URL: [Add live site URL here](https://todo-app-be.fly.dev/)
+- Solution URL: [https://github.com/KH-Ray/todo-app](https://github.com/KH-Ray/todo-app)
+- Live Site URL: [https://todo-app-be.fly.dev/](https://todo-app-be.fly.dev/)
 
 ## My process
 
