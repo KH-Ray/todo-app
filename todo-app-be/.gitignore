@@ -1,0 +1,7 @@
+postgres-info.txt
+/node_modules
+.dockerignore
+.env
+Dockerfile
+fly.toml
+
